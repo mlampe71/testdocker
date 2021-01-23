@@ -1,0 +1,10 @@
+Device Data:
+Alternate Device ID: 53804F65FD76455B808CBDAB5AC0A490
+Sensor Alternate ID: NTT_DM_IMM
+Capability Alternate ID: NTT_DM_Indicators_ALL
+
+Capabilities:
+NTT_DM_operatingHours
+NTT_DM_temperature
+NTT_DM_powerConsumption
+NTT_DM_operatingHours_Motor
